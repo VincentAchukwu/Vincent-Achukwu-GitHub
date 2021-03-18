@@ -1,0 +1,9 @@
+.navbar-nav a:hover {
+    background-color: rgba(0, 247, 255, 0.836);
+    transition: 0.3s;
+    border-radius: 7%;
+}
+
+.nav-item {
+    padding-right: 18%;
+}
